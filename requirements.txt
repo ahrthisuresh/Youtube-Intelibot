@@ -1,0 +1,18 @@
+# langchain_core
+# python-dotenv
+# streamlit
+# langchain_community
+# chromadb
+# audio_recorder_streamlit
+# ffmpeg
+# pytorch
+# torchvision
+# torchaudio
+# transformers
+# soundfile
+transformers==4.37.2
+datasets[audio]==2.17.0
+accelerate==0.27.0
+soundfile==0.12.1
+librosa==0.10.1
+accelerate==0.27.0
